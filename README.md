@@ -2,4 +2,4 @@
 my new rm new to git hub repository
 Ia
 
-I am waithcing a movie
+I am watching a movie
